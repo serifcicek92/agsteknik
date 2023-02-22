@@ -45,7 +45,7 @@
                             <i class="ti-mobile"></i>
                         </div>
                         <div class="info-block">
-                            <h5 class="font-weight-500">+905443594409</h5>
+                            <h5 class="font-weight-500"></h5>
                             <p>7/24</p>
                         </div>
                     </div>
